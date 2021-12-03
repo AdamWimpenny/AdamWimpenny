@@ -8,7 +8,9 @@ Want to know more about me? [Check out my portfolio.](NotYetMade)
 
 <br>
 
-  <img align="center" style="margin:0.5rem" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+  To Do
+  
+  <img align="right" style="margin:0.5rem" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
   
 <br>
 
