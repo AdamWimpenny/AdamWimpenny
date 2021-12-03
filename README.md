@@ -8,8 +8,8 @@ Want to know more about me? [Check out my portfolio.](NotYetMade)
 
 <br>
 
-https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif
-
+  <img align="center" style="margin:0.5rem" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+  
 <br>
 
 ## &#x1f4c8; GitHub Stats
