@@ -29,6 +29,15 @@ Want to know more about me? [Check out my portfolio.](NotYetMade)
 <br>
 <br>
 
+## 🚄 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/AdamWimpenny/count.svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+</p>
+
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
