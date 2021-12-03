@@ -4,13 +4,13 @@ I’m Adam, a college student, creative coder and self-proclaimed designer who s
 
 Want to know more about me? [Check out my portfolio.](NotYetMade)
 
+<img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ## 📌 Pinned Repositories
 
 <br>
 
   To Do
-  
-  <img align="right" style="margin:0.5rem" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
   
 <br>
 
